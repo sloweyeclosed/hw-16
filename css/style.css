@@ -1,0 +1,10 @@
+.bg-box {
+  width: 600px;
+  height: 400px;
+  background: url(../img/top.png) top / 5% repeat-x,
+    url(../img/bottom.png) bottom / 20% repeat-x,
+    url(../img/left.jpeg) left / 5% repeat-y,
+    url(../img/right.png) right / 5% repeat-y,
+    url(../img/center.jpeg) center / 50% no-repeat;
+  background-color: #008000;
+}
